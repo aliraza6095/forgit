@@ -1,2 +1,3 @@
 echo "hello"
-new test
+new test 
+conflict
